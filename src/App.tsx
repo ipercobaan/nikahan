@@ -15,7 +15,7 @@ export default function App() {
 
   useEffect(() => {
     // Lazy initialize standard audio stream
-    audioRef.current = new Audio('https://assets.mixkit.co/music/preview/mixkit-forest-trail-1215.mp3');
+    audioRef.current = new Audio('https://drive.google.com/uc?export=download&id=1_pM4YS9FZsse9r9rtSGoZEorMivlqpff');
     audioRef.current.loop = true;
     audioRef.current.volume = 0.45;
 
