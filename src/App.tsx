@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { AnimatePresence, motion } from 'motion/react';
 import { Heart, Calendar, Users, MapPin, Music, Volume2, VolumeX, Code } from 'lucide-react';
-import OpeningCover from './components/openingCover';
+import OpeningCover from './components/OpeningCover';
 import AudioPlayer from './components/AudioPlayer';
 import HeroSection from './components/HeroSection';
 import CoupleSection from './components/CoupleSection';
